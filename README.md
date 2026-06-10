@@ -11,6 +11,7 @@
 ## Here are some of my projects that you might find interesting.
 
 - **[Payment Gateway](https://github.com/igor-gregori/payment-service-application)** - A basic structure for a payment gateway
+- **[Guidance Lock](https://github.com/igor-gregori/guidance-lock)** - Interactive simulator of 2D guidance algorithms for homing missiles
 - **[Image Analysis Lambda](https://github.com/igor-gregori/aws-image-analysis)** - Image analyzer using Serverless Framework
 - **[1 Billion Rows Challenge](https://github.com/igor-gregori/1brc)** - My implementations of the challenge
 - **[Sorting algorithm viewer](https://github.com/igor-gregori/sorting-algorithm-viewer)** - See how some sorting algorithms work
