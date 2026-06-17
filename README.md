@@ -15,6 +15,7 @@
 - **[Image Analysis Lambda](https://github.com/igor-gregori/aws-image-analysis)** - Image analyzer using Serverless Framework
 - **[1 Billion Rows Challenge](https://github.com/igor-gregori/1brc)** - My implementations of the challenge
 - **[Sorting algorithm viewer](https://github.com/igor-gregori/sorting-algorithm-viewer)** - See how some sorting algorithms work
+- **[1D Chess](https://github.com/igor-gregori/1d-chess)** - Play 1 dimension chess
 - **[Gradient Wallpaper Generator](https://github.com/igor-gregori/gradient-wallpaper-generator)** - Generate beautiful gradient wallpapers
 - **[Go Donut](https://github.com/igor-gregori/go-donut)** - Watch a donut spinning
 - **[Snake Game](https://github.com/igor-gregori/snake-game)** - Play the classical snake game
