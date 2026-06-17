@@ -20,6 +20,7 @@
 - **[Go Donut](https://github.com/igor-gregori/go-donut)** - Watch a donut spinning
 - **[Snake Game](https://github.com/igor-gregori/snake-game)** - Play the classical snake game
 - **[MoveIt/Pomodoro](https://github.com/igor-gregori/moveit)** - Modern pomodoro timer
+- **[Mega Sena Simulator](https://github.com/igor-gregori/mega-sena-simulator)** - Mega Sena (like Mega Millions) simulator
 
 ## Connect
 
